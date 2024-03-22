@@ -1,0 +1,24 @@
+{
+    "name": "Darkgruvbox theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#83a598",
+        "primary-color": "#458588",
+        "warning-color": "#cc241d",
+
+        "sidebar-color": "#282828",
+        "roomlist-background-color": "#1d2021",
+        "roomlist-text-color": "#ebdbb2",
+        "roomlist-text-secondary-color": "#928374",
+        "roomlist-highlights-color": "#3c3836",
+        "roomlist-separator-color": "#504945",
+
+        "timeline-background-color": "#282828",
+        "timeline-text-color": "#ebdbb2",
+        "secondary-content": "#ebdbb2",
+        "tertiary-content": "#ebdbb2",
+        "timeline-text-secondary-color": "#928374",
+        "timeline-highlights-color": "#3c3836",
+        "reaction-row-button-selected-bg-color": "#458588"
+    }
+}
